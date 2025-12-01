@@ -52,6 +52,6 @@ Exports the first query in section C to a new polygon layer called "Tallest_Buil
 
 Exports the second query in section C to a new line layer called "Roads_In_Manhattan":
 
-<img width="1506" height="735" alt="image" src="https://github.com/user-attachments/assets/0d6b6222-a305-4eda-a743-b51b103884af" />
+<img width="1422" height="727" alt="image" src="https://github.com/user-attachments/assets/c620e99f-2681-40ec-9f4d-a7d542b5585d" />
 
 The total time the assignemnt took me was 2 hours. I completed all of the tasks (both the required task and the optional tasks).

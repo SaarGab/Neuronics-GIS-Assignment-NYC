@@ -18,7 +18,7 @@ Before and after images:
 
 <img width="391" height="365" alt="image" src="https://github.com/user-attachments/assets/e01e246e-5fd6-4a3b-aa29-257756a15373" />
 
-Zoom in for pixel detail:
+A zoom-in for pixel detail:
 
 <img width="1103" height="750" alt="image" src="https://github.com/user-attachments/assets/b0eaf748-6185-4f0f-8197-c0b94ecf2dab" />
 

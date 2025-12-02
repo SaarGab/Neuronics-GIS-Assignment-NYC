@@ -10,7 +10,7 @@ aprx = arcpy.mp.ArcGISProject(project_path)
 map_obj = aprx.listMaps()[0]
 
 #Section A
-orthophoto_url = "https://tiles.arcgis.com/tiles/yG5s3afENB5iO9fj/arcgis/rest/services/NYC_Orthos_2024/MapServer"
+orthophoto_url = "https://maps.nyc.gov/xyz/1.0.0/photo/2018/{z}/{x}/{y}.png8"
 map_obj.addDataFromPath(orthophoto_url)
 print("A. Added NYC Orthophoto layer")
 
@@ -53,3 +53,4 @@ arcpy.management.SelectLayerByAttribute(roads_layer, "CLEAR_SELECTION")
 #Save Project
 aprx.save()
 print("✔ All tasks A → E complete. Orthophoto, vector layers, filtered exports added to map.")
+
